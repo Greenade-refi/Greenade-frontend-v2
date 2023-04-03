@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@co2-storage/js-api": "^1.2.3",
     "@headlessui/react": "^1.7.4",
     "@lighthouse-web3/sdk": "^0.1.12",
     "@rainbow-me/rainbowkit": "^0.8.1",
